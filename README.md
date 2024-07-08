@@ -2,7 +2,7 @@
 
 - 🏫 3rd year computer science student
 - 🤖 Interested in AI
-- 🌱 Learning and working on it
-- 🍃 Pushing to the best
+- 🌱 Learning and working on neural networks
+- 🍃 Pushing myself to the best
 
 ## Check my work!
