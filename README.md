@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Janek 👋
 
-I'm Janek,
 - 🏫 3rd year computer science student
 - 🤖 Interested in AI
 - 🌱 Learning and working on it
 - 🍃 Pushing to the best
 
-Check my work!
+## Check my work!
