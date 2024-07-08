@@ -1,4 +1,4 @@
-## Hi there, I'm Janek 👋
+# Hi there! I'm Janek 👋
 
 - 🏫 3rd year computer science student
 - 🤖 Interested in AI
